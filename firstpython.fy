@@ -1,0 +1,2 @@
+# displaytheoutput
+print("hello wold")
